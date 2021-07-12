@@ -1,9 +1,5 @@
 @import "reset.css";
 
-.hidden {
-  display: none;
-}
-
 .bgimage {
   position: absolute;
   top: 0;
@@ -117,4 +113,14 @@ button:hover {
 
 .quote span {
   font-size: 15px;
+}
+
+.login-form {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.hidden {
+  display: none;
 }
